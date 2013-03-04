@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://tippymaurant.com" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Tippy Maurant - </title>
+ <link>http://tippymaurant.com</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Upcoming Events</title>
+ <link>http://tippymaurant.com/events</link>
+ <description>&lt;h4&gt;&lt;span style=&quot;font-family: &#039;Times New Roman&#039;; font-size: 12pt&quot;&gt;St. Paul Art Crawl&lt;/span&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h6 id=&quot;description&quot;&gt;Friday April 27, 6P - 10P&lt;/h6&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h6&gt;Saturday April 28, 12p - 8P &lt;/h6&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h6&gt;Sunday April 29, 12P - 5P&lt;/h6&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div align=&quot;right&quot;&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;address&gt;
+&lt;img style=&quot;width: 243px; height: 165px&quot; src=&quot;/files/tippymaurant/u206/crawl_2012.jpeg&quot; border=&quot;0&quot; alt=&quot;art crawl 2012&quot; width=&quot;433&quot; height=&quot;288&quot; /&gt; &lt;/address&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;span class=&quot;copy-info&quot;&gt;&lt;strong&gt;Peace. Wear it. Think it. Act it.&lt;/strong&gt;&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://tippymaurant.com/events&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <pubDate>Tue, 19 Jun 2007 21:04:12 +0000</pubDate>
+ <dc:creator>jim</dc:creator>
+ <guid isPermaLink="false">3 at http://tippymaurant.com</guid>
+</item>
+</channel>
+</rss>
